@@ -1,0 +1,167 @@
+{
+  "Header": {
+    "title": "LULY PET",
+    "paragraph": "Estética Animal"
+  },
+  "About": {
+    "paragraph": "Desde 2016 cuidando com muito amor e carinho do seu pet. Já são mais de 150 pets atendidos entre gatos e cães de diversas raças e tamanhos. Pode confiar.",
+    "Why": [
+      "Banho top das galáxias",
+      "Hidratação nota 10",
+      "Corte perfeito das unhas"
+    ],
+    "Why2": [
+      "Tosa higiênica sem igual",
+      "Tosa na máquina cuidadosa",
+      "Tosa na tesoura sem medo"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Luke, Brenda e Lilo",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Hanna",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Mel",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Thor",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Meg",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Jack",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Charlie",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Chayene",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Amora",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-bath",
+      "name": "Banho",
+      "text": "Seu pet vai adorar uma ducha sempre na temperatura ideal para a pelagem e com um shampoo cheiroso e de alta qualidade."
+    },
+    {
+      "icon": "fa fa-pump-soap",
+      "name": "Hidratação",
+      "text": "Para deixar set pet com uma pelagem sempre sedosa oferecemos um serviço experiente com uma linha de hidratação profissional."
+    },
+    {
+      "icon": "fa fa-paw",
+      "name": "Corte das Unhas",
+      "text": "É muito importante não deixar as unhas do seu pet crescer demais, por isso em cada banho deixamos todas no tamanho ideal."
+    },
+    {
+      "icon": "fa fa-cat",
+      "name": "Tosa Higiênica",
+      "text": "Aparamos o excesso de pelos nas partes íntimas, nos olhos e nas patas a cada banho."
+    },
+    {
+      "icon": "fa fa-dog",
+      "name": "Tosa na Máquina",
+      "text": "O seu pet sempre com a pelagem do tamanho ideal para a raça ou de acordo com a preferência desejada."
+    },
+    {
+      "icon": "fa fa-scissors",
+      "name": "Tosa na Tesoura",
+      "text": "Para aqueles que desejam uma pelagem maior e não tem problemas com uma boa escovação para manutenção do corte."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Jessica Maia",
+      "job": "Tosadora"
+    }
+  ],
+  "Contact": {
+    "address": "Rua: João Batista Cândido, 231, D. Pedro II, SJCampos, SP, CEP: 12232-893 ",
+    "phone": "(12) 98141-6184",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "instagram": "instagram.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-handshake-simple",
+      "title": "Profissionalismo",
+      "text": "Todos os clientes são tratados com muito respeito e dedicação."
+    },
+    {
+      "icon": "fa fa-jug-detergent",
+      "title": "Produtos Top",
+      "text": "Nossa linha de produtos são sempre de alta qualidade."
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Muito Amor",
+      "text": "Cada pet é cuidado com muito carinho e no seu prório tempo."
+    },
+    {
+      "icon": "fa fa-mug-saucer",
+      "title": "Experiência",
+      "text": "São mais de 150 cliente já atendidos entre gatos e cães de diversas raças."
+    }
+  ]
+}
