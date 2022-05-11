@@ -1420,6 +1420,13 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
+"@openreplay/tracker@^3.5.10":
+  version "3.5.10"
+  resolved "https://registry.yarnpkg.com/@openreplay/tracker/-/tracker-3.5.10.tgz#d80bffc121739e39a4e2080321cd017163c72cc4"
+  integrity sha512-7iVZR+JGvlFxp4bWp0I9oiKKoPAk8iCZiVABRkzrfGC1G3dVuIKtKYqutEMmMtAU6wvMAqUJBx1hqEuuUZqAKg==
+  dependencies:
+    error-stack-parser "^2.0.6"
+
 "@pmmmwh/react-refresh-webpack-plugin@0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.3.tgz#1eec460596d200c0236bf195b078a5d1df89b766"
@@ -10705,11 +10712,6 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
-
-typescript@^4.6.4:
-  version "4.6.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.6.4.tgz#caa78bbc3a59e6a5c510d35703f6a09877ce45e9"
-  integrity sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg==
 
 unbox-primitive@^1.0.1:
   version "1.0.2"
